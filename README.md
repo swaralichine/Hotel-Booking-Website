@@ -1,11 +1,8 @@
-<p align="center">
-<img src="https://github.com/pulkithanda/web-weaver/blob/master/wireframes/assets/logo.png" alt="" width="350px"/>
-</p>
 
-<h1 align="center"> The Glory Hotels  </h1>
+<h1 align="center"> ANTHEM PUNE  </h1>
 
 <p>
-This is a responsive multi-page website promoting a fictional hotel chain organisation - <b>The Glory Hotels</b>, made for the Web Weaver event of IIT-B Techfest 2021. (FIRST POSITION)
+This is a responsive multi-page website promoting a fictional hotel chain organisation - <b>ANTHEM</b>
 </p>
 
 ## Pages
@@ -29,19 +26,12 @@ This is a responsive multi-page website promoting a fictional hotel chain organi
 - Multi dynamic page website
 - Smooth navigation
 
-## Tech Stack (Allowed)
+## Tech Stack 
 - HTML
 - CSS
   
 ## Run Locally
 
 Download the zip file of the project or clone it & then open the ```index.html``` file.
-
-```bash
-  git clone https://github.com/pulkithanda/web-weaver.git
-```
-
-## Hosted Website
-<b>Link:</b> https://thegloryhotels.netlify.app/
 
 
